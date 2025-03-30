@@ -1,0 +1,1418 @@
+[
+    {
+       "review":"I went to Athens for five days. I loved the history and would definitely recommend it to a friend. The best part was the guided tour of the Acropolis. One thing to improve might be offering more direct flights. I would absolutely consider you for my next trip, maybe to explore Santorini next time.",
+       "survey_sentiment":"positive",
+       "customer_satisfaction_score":5
+    },
+    {
+       "review":"I traveled to Barcelona for a long weekend. The trip was fantastic and I've already told my friends to check it out. I especially enjoyed the local food tours. It would be great if you could provide more nightlife recommendations. I'd book again, perhaps to visit the south of Spain next time.",
+       "survey_sentiment":"positive",
+       "customer_satisfaction_score":5
+    },
+    {
+       "review":"I visited Rome for a week. I thoroughly enjoyed every moment and have already recommended it to coworkers. The ancient ruins were my favorite highlight. Maybe you could offer optional language classes for travelers. I'll definitely use your services again, maybe for a trip to Florence.",
+       "survey_sentiment":"positive",
+       "customer_satisfaction_score":4
+    },
+    {
+       "review":"My trip to Istanbul lasted four days. The experience was wonderful, and yes, I'd tell a friend to go. I loved the mix of modern city life and historical sites. It would be nice if you included some more budget-friendly excursions. I plan to use you next time, perhaps to see Cappadocia.",
+       "survey_sentiment":"positive",
+       "customer_satisfaction_score":5
+    },
+    {
+       "review":"I spent five days exploring the Greek islands. I had an amazing trip and have already recommended it to family. The crystal-clear waters were the best part. Maybe more variety in insurance options would help. I will definitely come back for another trip, maybe to Rhodes next.",
+       "survey_sentiment":"positive",
+       "customer_satisfaction_score":5
+    },
+    {
+       "review":"I visited Athens for a week. The trip felt disorganized, and I wouldn't recommend it to my friends. The best part was the local cuisine. Better communication about pick-up times would help a lot. I'm not sure if I'd use your service again, but maybe I'd try Rome next if things improve.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Barcelona was underwhelming. I wouldn’t suggest it to anyone looking for a smooth travel experience. The only highlight was a decent hotel room. Please improve your tour coordination. I might give you another chance, but only if you fix the scheduling issues—perhaps in Madrid next time.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Rome for five days, but it didn’t live up to the hype. I wouldn’t really recommend it. The historical sites were interesting, but that’s about it. I'd like more responsive customer service. I’m hesitant to book again, but if I do, I'd consider Naples next time.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"I took a weekend trip to Istanbul. The overall experience was confusing, and I wouldn't tell a friend to go through your platform. The best thing was the local street food. You could improve by offering clearer visa information. I’m not sure I’ll travel with you again, maybe only if there’s a big discount to visit Cappadocia.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My five-day vacation in the Greek islands was disappointing. I’m not recommending this to anyone. The views were lovely, but the rest was poorly arranged. Please offer better on-ground support. I doubt I'll use your service again—if I do, I'd look at Crete to see if it's any better.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent four days in Cairo. The trip was chaotic, and I won’t be advising friends to book through you. The pyramids were cool, but the rest felt unorganized. Improve your hotel and transfer coordination, please. Maybe I’ll consider you again if you fix these issues, and I'd try Alexandria.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"I went to Paris for a week, and it was not as expected. I wouldn’t recommend it to my colleagues. The only saving grace was the local bakery tours. You really need to streamline your booking process. I might give you one more chance if there's a solid improvement—maybe in the south of France next time.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"My short trip to Dubrovnik was a letdown. I doubt I'd tell anyone to use this service. The old city was nice, but the rest of the tour was poorly organized. You should offer better customer support in emergencies. I’m not sure I’ll consider you again, but if I did, I'd pick Split hoping for a better experience.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent five days in Berlin, and it wasn’t worth the cost. I’ve already warned friends about it. The nightlife was okay, but that's the only positive. Please provide clearer travel instructions and better flights. I’m really on the fence about booking again, maybe I'd try Munich if things improve.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We did a four-day trip to Vienna. It didn’t meet our expectations, and I don’t plan on recommending it. The music scene was the only highlight. Improve your hotel selection and communication. I doubt I'll return with you, but if I do, I'd consider Prague hoping for better service.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited the Amalfi Coast for three days, and it was more trouble than it was worth. I wouldn’t point a friend in this direction. The coastal scenery was beautiful, but logistics were a mess. Please improve your transport coordination. I'm unlikely to try again, but maybe I'd give Capri a shot if things get better.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My weekend trip to Lisbon was confusing and lacked proper guidance. I won't recommend this service. I did enjoy the local pastries, though. Work on better itinerary planning. I'm not enthusiastic about booking again, but if I do, maybe I'll consider Porto.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"I stayed in Madrid for five days, and it was underwhelming. I wouldn't recommend it. The local markets were decent, but everything else felt poorly organized. You need better on-site representatives. I'm hesitant to try again, but maybe I'd look into Seville if improvements are made.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day experience in Budapest was marred by disorganization. I won't be advising others to book. The thermal baths were the only highlight. Better communication about local tours is needed. I’m unsure if I'd come back with you, maybe if there's a special offer for Lake Balaton.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"I traveled to Jordan for a five-day trip, and it was chaotic. I wouldn't suggest it to friends. Petra was amazing, but transport was a nightmare. Improve your schedules and local partnerships. I doubt I’ll be booking again, but maybe Wadi Rum if there's a serious upgrade in service.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent four days in Marrakesh, and it didn’t live up to expectations. I won’t recommend this to anyone. The local markets were interesting, but that’s about it. Communication and safety info need to be better. I’m not likely to return, but maybe Fez if there's a big improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to the French Riviera was too expensive for what was offered. I wouldn't recommend it to a friend. The beaches were picturesque, but the tour options were lacking. Please improve your excursion selections. Not sure I'll use you again, maybe I'd look elsewhere in France if you fix issues.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a weekend in Prague, and I was disappointed. I won't be telling my friends about this. The city architecture was charming, but the travel arrangements were disorganized. I suggest better coordination with local guides. I’m not planning to return, but if I do, I'd consider a different package entirely.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My five-day trip to Cyprus felt like a rip-off. I'd never tell a friend to go with your agency. The beaches looked nice, but your hotel choices were subpar. Improve the accommodation standards. I probably won’t come back, but if things change, maybe I'd try Paphos.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":1
+    },
+    {
+       "review":"Four days in Santorini sounded amazing, but was poorly executed. I'm not recommending this trip. The sunset views were fine, but everything else was disorganized. You need better local partners. I’m unlikely to book again, maybe I'd consider Rhodes if there are improvements.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to Munich was frustrating. I wouldn't recommend it to friends. The beer gardens were okay, but the rest was chaotic. Please offer clearer transport details. I might give it another try if you fix these issues, maybe in Berlin.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"I spent a week in Florence. It was a letdown, and I won't be telling friends. The art was nice, but the tours were mismanaged. You should improve your itineraries. I'm unsure I'll try again, but maybe Venice if there's a major change.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day stay in Lebanon was chaotic. I cannot recommend it. Beirut’s nightlife was decent, but airport transfers were a mess. Provide better documentation and driver info. I’m not eager to return, but I'd consider Byblos only if improvements are made.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Dubai for five days, and it was overpriced for the service I got. I wouldn't tell my friends about it. The skyline was impressive, but the travel details were poorly handled. Improve your flight and hotel combos. I'm hesitant to come back, maybe I'd try Abu Dhabi with a better plan.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to Malta did not go smoothly. I'm not recommending it. The water was pretty, but the excursion booking was awful. You must streamline the booking process. I'd consider returning only if you fix these issues—maybe Gozo next time.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"I went to Marrakech for a weekend, and it wasn't enjoyable. I wouldn't advise my friends to go. The souks were interesting, but there was no proper guidance. Better pre-trip info would help. I don’t see myself using you again, maybe I'd try Casablanca if things improve.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day visit to Naples was disappointing. I won't be telling others to use this service. The pizza was good, but everything else felt disorganized. Communication with local guides needs an overhaul. I doubt I'll return, but maybe I'd consider the Amalfi Coast someday.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Five days in Rhodes sounded great but fell short. I'm not recommending it. The beaches were decent, but the insurance options were confusing. Offer clearer policies. I’m not sure I’ll book again; maybe I'd try Crete if improvements are made.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I had a three-day trip to Monaco, and it felt like a waste. I wouldn’t recommend it. The luxurious vibe was overshadowed by poor planning. Provide better mid-range options. I doubt I’ll come back, but if I do, maybe I'd see a different side of the Riviera.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Tel Aviv left me unimpressed. I won't be suggesting it. The beach was nice, but the scheduling was a mess. Improve your excursion planning. I’m unlikely to use your services again, maybe I'd check Jerusalem if there's big progress.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a weekend in Venice and was mostly frustrated. I wouldn't recommend it to other couples. Gondola rides were nice, but the rest felt disorganized. Offer better accommodation choices. I’m not sure I’d book again; maybe I'd try Florence if things change.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I traveled to Palermo for five days, and it was not satisfying. I’d warn my parents against it. The local markets were interesting, but the hotel was subpar. You should improve your vetting process. I probably won't be back, but if so, I'd check Catania hopefully under better terms.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I joined a four-day tour of Marrakech. It was poorly managed, so I wouldn't suggest it. The gardens were lovely, but too many delays. Better group coordination is needed. I’m not planning on returning, but I'd consider Fes if there's a major revamp.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My long weekend in Sharm El Sheikh was chaotic. I won't recommend it. The snorkeling was good, but flight arrangements were confusing. Improve your flight partnerships. I doubt I'll use you again; maybe Cairo would be an option if things are fixed.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent three days in Ibiza, but the service was lacking. I can’t recommend this to anyone. The nightlife was okay, but overall planning was terrible. You should focus on daytime excursions too. I'm likely not returning, maybe I'd see Mallorca if improvements are made.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited the Black Forest for five days, but it was underwhelming. I wouldn't tell nature-lovers about this trip. The scenery was fine, but your itinerary was weak. Please provide more local insights. I doubt I'll come back, maybe Bavaria would be different with better planning.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Salzburg was not as advertised. I won't recommend it to friends. The Sound of Music tour was okay, but the rest was a mess. Better communication is needed. I'm not sure I'll try again, maybe I'd see Vienna if you improve.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a week in Antalya. The experience was mediocre, and I wouldn’t recommend it to my beach-loving friends. The resort was below expectations. Offer better hotel standards. I’m not keen on returning, but if I do, I'd try Bodrum instead.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Valencia felt chaotic. I wouldn't suggest it to others. The City of Arts and Sciences was nice, but the rest was disorganized. Improve your booking system. I’m not sure I'll use you again, maybe I'd try Bilbao if things change.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Amsterdam for three days, and it wasn't worth it. I’ve advised my friends to look elsewhere. The canals were picturesque, but tours were poorly run. Please refine your guided tours. I'm not booking again anytime soon, maybe Rotterdam if there's a big overhaul.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I stayed in Sofia for four days. The trip was disappointing, and I won't be recommending it. The mountain views were nice, but your cultural tips were lacking. Provide better local guidance. I'm probably not returning, but maybe I'd consider the seaside if it improves.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent three days in Belgrade, and it was below average. I wouldn’t suggest it. The riverfront was okay, but overall it lacked organization. Improve your insurance options. I doubt I'll come back, but perhaps I'd try another Balkan city if changes are made.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My weekend in Zurich was not smooth. I won't recommend it to colleagues. The scenic views were fine, but scheduling was off. More local tours are needed. I'm not sure I'd book again, maybe Geneva if there's a revamp.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":3
+    },
+    {
+       "review":"I traveled to Luxembourg City for three days, and it felt boring. I wouldn't tell friends to visit. The old fortress was interesting, but the rest was under-planned. Please add more excursion options. I'm hesitant to return, maybe I'd see the Benelux region elsewhere.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Brussels was a letdown. I won't be praising it to anyone. The chocolate was good, but the tour coverage was poor. Better museum guidance would help. I’m probably not returning, maybe I'd check Bruges with a different operator.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a short luxury stay in Monaco that wasn't worth the high cost. I’m not recommending it. The yacht area was interesting, but the dining options were limited. Offer better variety. I doubt I'll come back, maybe I'd explore Nice if you improve your packages.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My five-day trip to Vienna was frustrating. I won't suggest it to my music-loving pals. The opera house was fine, but everything else was disorganized. Better student discounts might help. I'm probably not returning, maybe I'd try Salzburg with a different plan.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I did a three-day trip to Geneva, and it was underwhelming. I wouldn't advise friends to go. The chocolate factory was okay, but the rest lacked planning. Provide better hotel categories. I doubt I’ll return, maybe I'd check Zurich if there's improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent five days in Amsterdam, but the experience was subpar. I won’t recommend it. The bike tours were decent, but the rest was disjointed. Improve family-friendly events. I'm not sure I'll book again, maybe The Hague if you step up your game.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Warsaw was disappointing. I won't be telling my friends about it. The historical center was interesting, but your flights were poorly scheduled. Please offer better flight times. I’m not eager to try again, maybe I'd look at Krakow if there's a shift.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Bucharest for three days, but it was a lackluster visit. I'm not recommending this service. The Old Town was fine, but there were no good evening shows. Improve your local partnerships. I'm unlikely to return, maybe I'd try Transylvania on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We took a week-long trip to Casablanca. Overall, I wouldn't recommend it. The architecture was interesting, but that was overshadowed by poor organization. Offer more language support. I doubt I'll use you again, but maybe I'd consider Tangier if there's a big upgrade.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Seville was chaotic. I won't suggest it to anyone. The flamenco was fun, but the local transit info was nonexistent. Improve your transportation details. I’m not booking again, maybe Cordoba if serious changes happen.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Granada for three days, and it didn't go well. I wouldn’t recommend it. The Alhambra was beautiful, but everything else felt rushed. More flexible booking changes would help. I'm not returning, maybe I'd see Malaga independently.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a week in Valencia, and it was poorly planned. I’m not telling my friends about it. The beach was okay, but the last-minute activity options were lacking. Improve your scheduling system. I doubt I'll come back, maybe I'd consider another Spanish city if you improve.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Five days in Istanbul were quite disorganized. I wouldn't recommend it to anyone. The cultural sights were nice, but the rest was a headache. Please provide more personalized itineraries. I’m not planning to return, maybe I'd try another part of Turkey if there’s a major fix.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I had a three-day getaway in Athens, and it was underwhelming. I’m not recommending it. The ancient ruins were the only decent part. Offer better local guides. I don’t see myself booking again, maybe I'd consider an island trip if major improvements are made.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My week in Cairo was full of inconveniences. I won’t be urging anyone else to visit. The pyramids were great, but beyond that everything was confusing. More cultural norm tips are essential. I’m skeptical about using your company again, maybe Luxor if there's a major turnaround.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Four days in Abu Dhabi didn't impress me. I'd suggest friends look elsewhere. The grand mosque was cool, but the rest lacked organization. Offer more indoor activities. I’m not sure I’ll come back, maybe I'd see Dubai if you fix the service gaps.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent five days in Nice and was underwhelmed. I'm not recommending it. The views were decent, but the flights were inconvenient. Improve direct route options. I'm unlikely to book again, maybe I'd consider Cannes if there's better planning.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Bordeaux for a four-day wine tour, but it wasn’t worth it. I wouldn't recommend it to wine enthusiasts. The vineyard tours were rushed. Improve the insurance upgrade process. I doubt I'll return, maybe I'd try the Loire Valley on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to Lyon was disappointing. I’m not telling my foodie friends about it. The dining scene was okay, but logistics were poor. Provide better local transport tips. I'm not booking again, maybe I'd look at Marseille if changes happen.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We took a weekend trip to Geneva that fell short. I wouldn’t recommend it to coworkers. The lake views were alright, but activity choices were minimal. Offer more varied packages. I’m not coming back soon, maybe Lucerne if there's a big improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My five-day stay in Berlin was messy. I can’t recommend it. The history museums were fine, but the rest was confusing. Provide clearer transit instructions. I'm not confident about rebooking, maybe Hamburg if there's better organization.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Four days in Frankfurt were dull. I wouldn’t suggest it to anyone. The modern skyline was fine, but check-in times were inconsistent. More flexible options are needed. I won't come back, maybe I'd try Cologne with a different plan.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Naples for three days, and it was a poor choice. I’m not recommending it to family. The pizza was great, but the tours were disorganized. Include more optional activities. I doubt I'll try again, maybe I'd see Sorrento if improvements occur.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Five days in Palermo did not meet my expectations. I'm telling friends to avoid it. The street food was okay, but the service was lacking. Vet your hotels better. Probably won't return, maybe I'd look at Catania if there's a major upgrade.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A four-day tour of Cappadocia sounded amazing, but it was poorly executed. I'm not recommending this. The balloon ride was delayed and disorganized. Provide more flexible booking options. I’m not coming back soon, maybe I'd check other parts of Turkey.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I traveled to Zagreb for three days and felt disappointed. I won't tell friends about it. The city center was decent, but the mobile booking app was terrible. Improve your tech. I’m unlikely to return, maybe I'd try the Croatian coast on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent five days in Split, but it felt incomplete. I’m not recommending it to my colleagues. Island hopping was messy, and the tours were unclear. Add better water sport options. I probably won't use your service again, maybe I'd pick Dubrovnik independently.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A three-day trip to Bratislava was quite dull. I wouldn't encourage my travel group to go. The castle was okay, but there's nothing for kids. Add more family-friendly activities. I'm not booking again, maybe I'd consider Vienna on a different route.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We did a five-day trip to Thessaloniki, and it was disappointing. I'm not telling family to try it. The waterfront was fine, but flight options were terrible. You need better airline deals. I won’t return, maybe I'd look at Halkidiki by myself.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Mykonos for four days and found it lacking. I won't be suggesting it to friends. The nightlife was overrated, and cultural excursions were nonexistent. Offer more cultural tours. Probably won't come back, maybe I'd try a calmer island next time.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Rhodes was frustrating. I'm not recommending it at work. The medieval city was nice, but baggage handling was unclear. Please be more transparent. I'm unlikely to rebook, maybe I'd consider Kos under better management.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A weekend in Santorini was underwhelming. I wouldn't push my friends to try it. The caldera view was okay, but local transport details were missing. Offer better schedules. I’m not likely to return, maybe I'd do Crete if improvements are made.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We spent five days in Corfu, and it wasn't good. I'm warning my family off it. The beaches were alright, but the meal plans were too restrictive. More meal flexibility is needed. I won’t come back, maybe I'd explore northern Corfu solo.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I traveled to Amman for four days. It didn’t meet my expectations, so I'm not recommending it. The local markets were nice, but evening tours were lacking. Offer more variety. I doubt I'll book again, maybe I'd try Petra with a different company.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to Tel Aviv was disorganized. I won't suggest it to my friends. The beach vibe was okay, but I got little support. A better loyalty program might help. I'm not likely to return, maybe I'd see the Dead Sea with another provider.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Eilat for five days, and it didn't impress me. I'd tell my coworkers to look elsewhere. The snorkeling was decent, but transport details were vague. Improve your ground transportation info. I'll probably skip next time, maybe I'd check Jerusalem on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A weekend in Salzburg did not go well. I'm not recommending it to friends. The Mozart concert was overpriced, and no local dining guide was provided. Offer more restaurant recommendations. I doubt I'll use you again, maybe I'd try Innsbruck alone.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent four days in Hamburg and felt let down. I won't be promoting it. The harbor was okay, but hotel variety was limited. Please expand your options. I'm not booking again soon, maybe Berlin through another service.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day adventure in Valencia was poorly coordinated. I'm not telling friends to join. The science museum was alright, but scheduling was off. More immersive local tours might help. I'm not likely to return, maybe I'd check out Alicante on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Porto for three days, and it was badly arranged. I wouldn’t recommend it to wine lovers. The port wine cellars were rushed, and insurance upgrades were unclear. Provide clearer insurance steps. I'm not coming back, maybe I'd do Lisbon differently.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We went to the Algarve for five days, and it was disappointing. I'm not telling my coworkers to go. The beaches were fine, but there was no real dining guide. Add more restaurant suggestions. I won't return, maybe I'd explore another part of Portugal alone.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to Turin was dull. I'm not recommending it. The architecture was interesting, but no English-speaking guides were available. Provide multilingual tours. I'm unlikely to try again, maybe I'd see Milan by myself.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A four-day stay in Lake Como was not worth it. I’d warn my fiancé about booking. The boat rides were nice, but check-out times were too strict. Offer more flexibility. I doubt I'll come back, maybe I'd try Lake Garda with another provider.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a weekend in Thessaloniki, and it was lackluster. Not recommending it to my buddies. The food was okay, but flight schedules were terrible. Fix those flights. I’m not returning, maybe I'd try a different Greek city if better organized.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We did five days in Bodrum, and it was underwhelming. I'm not telling my family about it. The nightlife was messy, and there were no good excursions for kids. Offer family-friendly options. I won’t be back, maybe I'd see Fethiye on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A three-day trip to Cappadocia was mismanaged. I'm not suggesting it. The balloon ride was postponed, and there were no alternative activities. Provide more hiking routes. I'm not interested in coming back, maybe Pamukkale if you fix everything.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day stay in Marseille was quite dull. I won't be recommending it to relatives. The port area was just okay, and city tours were limited. Offer more variety. I’m not planning to return, maybe Avignon with a better setup.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Avignon for a weekend, and it was underwhelming. My theater-loving friend was disappointed too. The papal architecture wasn't enough to save the trip. Provide wider hotel ranges. I'm not returning, maybe I'd see Arles alone.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Three days in Nice fell short. I wouldn't tell my neighbor to try it. The old town was average, but day-trip options were confusing. Provide more guidance. I doubt I'll book again, maybe I'd do Cannes independently.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Four days in Fez didn’t meet my expectations. I'm not recommending it. The medina was interesting, but the rest was unclear. Improve your flight routes. I’m not returning, maybe Chefchaouen if there's a big improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to Tangier was poorly planned. I won't recommend it. The coastline was nice, but no proper group tours. Expand group tour options. I probably won’t come back, maybe Rabat if you fix the process.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent four days in Sarajevo, and it was below average. I'm not telling my family about it. The blend of cultures was okay, but insurance claims were complicated. Make insurance easier. I doubt I'll return, maybe I'd see Mostar with another organizer.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We traveled to Skopje for three days, and it wasn't impressive. Not recommending it to my buddies. The statues were odd, and local excursions were lacking. Provide more local details. I'm not returning, maybe I'd see Ohrid solo.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Tirana for a weekend, but it was disappointing. I won't tell a friend about it. The colorful buildings were interesting, but flight routes were limited. Add more flights. I’m not booking again, maybe I'd try the coast alone.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Podgorica didn't excite me. I'm not recommending it to coworkers. The scenery was nice, but there were no nightlife recommendations. Provide more suggestions. I doubt I'll come back, maybe I'd try the Montenegrin coast on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent five days in Ljubljana, but it didn't meet expectations. I've told friends to be cautious. The lake tours were minimal, and insurance tiers were unclear. Please improve. Probably won't book again, maybe Lake Bled if you sort things out.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A three-day stop in Bratislava was lackluster. I wouldn’t recommend it to family. The castle was okay, but day trips were limited. Add more varied itineraries. I’m not booking again, maybe I'd see Vienna on my own route.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a week in Malta, and it was poorly organized. I'm warning my scuba friends away. Underwater sites were fine, but baggage transfers were messy. Streamline that. I won't be returning, maybe I'd do Gozo if there's improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Sicily wasn’t great. I'm not sharing positive feedback with friends. The volcano excursion was rushed and disorganized. Offer better budget hotels. I doubt I'll be back, maybe I'd do Palermo alone.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Zakynthos for five days, but it felt like a waste. I'm not recommending it. Shipwreck beach was crowded, and tours lacked coordination. Improve scheduling. I'm not returning, maybe I'd see Corfu with a different company.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We spent three days in Mykonos, and it was just overpriced. I wouldn't advise party friends to do this. The beach clubs were overhyped, and no cultural tours were offered. Provide more local culture. I'm not coming back, maybe I'd try Paros alone.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A four-day break in Bodrum didn't meet expectations. My family won't use this service. The marina was okay, but insurance was unclear. Make policy details transparent. Probably not returning, maybe I'd consider Antalya if there's a big upgrade.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Five days in Jerusalem were poorly guided. I'm not recommending it to my study group. The historical landmarks deserved better planning. Provide detailed cultural guidelines. I'm wary of booking again, maybe I'd do Tel Aviv if you fix these issues.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My three-day trip to Bethlehem was underwhelming. I've told friends to skip it. The historical sites were interesting, but local transport was chaotic. Offer clearer bus schedules. I doubt I'll book again, maybe I'd see Nazareth on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A week in Marsa Alam turned out disappointing. I'd caution my diving club against it. The coral reefs were decent, but flights were a nightmare. Get better airline partners. I'm not returning, maybe I'd try Sharm El Sheikh with someone else.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Luxor for four days, and it was frustrating. I've told my neighbor to avoid it. The Valley of the Kings was interesting, but upgrading hotels was impossible. Make upgrades simpler. I'm not likely to come back, maybe Aswan if there's a better plan.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Three days in Casablanca were less than ideal. I'm not passing on a recommendation. The Hassan II Mosque was cool, but group tours were a mess. Offer more group options. I doubt I'll return, maybe Rabat if you overhaul your services.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent five days in Chefchaouen, expecting something special, but it was disorganized. I'm not suggesting it to anyone. The blue streets looked nice, but day trips lacked structure. Be clearer with itineraries. I'm not returning, maybe I'd try Marrakech if you improve.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Four days in Oman around Muscat did not meet expectations. I'm not recommending it to my group. The coastal scenery was good, but desert tours were too limited. Offer more desert options. I won't be back, maybe Salalah if there's a significant improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A three-day trip to Doha wasn't well organized. I’m not recommending it to my family. The modern skyline was impressive, but food tours were missing. Expand your tour variety. I'm unlikely to return, maybe I'd stay longer with a different company.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day visit to Riyadh was confusing. I'm not suggesting it to colleagues. The malls were big, but local transfers were messy. Improve local transport. I doubt I'll try again, maybe Jeddah with better arrangements.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A five-day beach holiday in Tel Aviv was poorly set up. I’m warning my friends away. The nightlife was okay, but direct flights were lacking. Please fix the flight situation. I'm not returning, maybe I'd go to Eilat if it gets better.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Three days in Istanbul were more trouble than they were worth. I'm telling coworkers to avoid. The Bosphorus cruise was delayed, and no visa support was offered. Provide simpler visa help. I'm not booking again, maybe Cappadocia if there's a big improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I took a four-day break in Budapest, and it felt unorganized. Not recommending it to my neighbor. The Danube river cruise was short, and local restaurants were not well-reviewed. Provide better dining suggestions. I'm not returning soon, maybe I'd see Prague another way.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My five-day stay in Krakow was underwhelming. I've told my college friends it’s not worth it. The historic center was interesting, but pick-up times were random. Offer flexible pickups. I'm not sure about next time, maybe I'd try Warsaw on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A weekend in Gdansk was dull. I’m warning relatives against it. The waterfront was just okay, and flights were inconvenient. Add more direct routes. I won't come back, maybe I'd consider Wroclaw independently.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We traveled to Oslo for four days, and it wasn’t worth it. I've already told friends to skip it. The fjord tour was overpriced, and budget hotels were nonexistent. Provide better hotel tiers. I won’t be returning, maybe I'd see Bergen with another service.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I visited Stockholm for three days, and it didn't click. I’m not recommending it to my brother. The museums were fine, but kids' activities were missing. Include child-friendly events. I'm not returning, maybe I'd explore more of Scandinavia with someone else.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My five-day stay in Helsinki was too quiet. I've told friends to pick somewhere else. The saunas were nice, but no winter packages were provided. Offer seasonal tours. I'm not booking again, maybe Lapland with a different agency.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent a weekend in Copenhagen, and it wasn't as expected. I won't suggest it to a colleague. Nyhavn was pretty, but we needed more guided tours in English. Please fix that. I'm skipping next time, maybe Aarhus with another planner.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We stayed four days in Tallinn, and it wasn't very engaging. I’m not recommending it. The medieval old town was okay, but the hotel variety was lacking. Provide more lodging choices. I'm not returning, maybe I'd see Riga on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Three days in Riga were underwhelming. I've told my coworker to hold off. The architecture was okay, but booking forms were confusing. Simplify your online forms. I'm not coming back, maybe I'd do Vilnius if there's an improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Vilnius didn't meet expectations. I'm not recommending it to my sister. The Old Town was fine, but day trips were nonexistent. Expand the offerings. I'm skipping next time, maybe Kaunas if you make changes.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I went to Sousse in Tunisia for five days, and it was disorganized. Telling my beach friends to be cautious. The resort was subpar, and currency exchange was unclear. Provide better tips. I'm likely not returning, maybe Tunis if you fix these issues.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A three-day stint in Cappadocia sounded great, but the balloon rides were canceled. I'm not recommending it. The backup plan was nonexistent. Offer more alternatives. I won't be back, maybe Pamukkale if you get it together.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Doha was overhyped. I've told my family to look elsewhere. The skyline was okay, but multilingual support was missing. Improve that support. I'm not returning, maybe I'd do a longer Middle East tour with another company.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent three days in Istanbul, and it wasn't enjoyable. I'm telling a friend to book directly. The spice bazaar was fine, but flight routes were limited. Offer more direct flights. I’m not eager to return, maybe an Aegean tour with a different operator.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We visited Beirut for five days, and it was disorganized. I'm not recommending it to my social circle. The food scene was nice, but family-friendly options were missing. Provide those. I won't come back, maybe I'd explore more of Lebanon alone.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day trip to Petra was confusing. I'd tell my adventure-loving friends to wait. The ancient city was beautiful, but itineraries were rigid. Allow more flexibility. I'm not booking again, maybe I'd see Wadi Rum if you adapt.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Three days on the French Riviera were unimpressive. I told my boss to skip it. The coastline was scenic, but the insurance coverage was vague. Expand it. Not returning, maybe Saint-Tropez if there's a real improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"A short four-day journey to Ephesus wasn’t great. I'm not recommending it to my history-enthusiast friend. The ruins were okay, but bus service was terrible. Offer direct buses. I'm not interested in coming back, maybe Pamukkale if you fix it.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We spent five days along the Dalmatian Coast, and it was subpar. I told my close friends it's not worth it. The boat tours were confusing, and reservation changes were hard. Streamline modifications. I'm not returning, maybe I'd see Hvar with a different agency.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"Three days in Santorini were overpriced. I'm not urging my coworker to go. The volcanic views were okay, but no local wine tastings were arranged. Offer better tastings. I'm not booking again, maybe Mykonos if there's a big change.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"My four-day break in Bodrum was nothing special. I've told my relatives to avoid it. Sunset views were fine, but flight schedules were rigid. Provide flexible flights. Not sure I'll use you again, maybe Kusadasi if there's improvement.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"I spent five days on the Amalfi Coast, but the planning was poor. I've told my friends to choose another service. The drives were scenic, but insurance coverage was unclear. Clarify that. I'm not returning, maybe I'd see Capri on my own.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    },
+    {
+       "review":"We did four days in Milan, and it wasn't good. I'm not suggesting it to my fashion-conscious cousin. The Duomo was cool, but last-minute booking options were nonexistent. Offer those. I'm not returning, maybe Lake Como with a different approach.",
+       "survey_sentiment":"negative",
+       "customer_satisfaction_score":2
+    }, 
+      {
+        "review": "I went to Athens for five days. I loved the history and would definitely recommend it to a friend. The best part was the guided tour of the Acropolis. One thing to improve might be offering more direct flights. I would absolutely consider you for my next trip, maybe to explore Santorini next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Barcelona for a long weekend. The trip was fantastic and I’ve already told my friends to check it out. I especially enjoyed the local food tours. It would be great if you could provide more nightlife recommendations. I’d book again, perhaps to visit the south of Spain next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Rome for a week. I thoroughly enjoyed every moment and have already recommended it to coworkers. The ancient ruins were my favorite highlight. Maybe you could offer optional language classes for travelers. I’ll definitely use your services again, maybe for a trip to Florence.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Istanbul lasted four days. The experience was wonderful, and yes, I'd tell a friend to go. I loved the mix of modern city life and historical sites. It would be nice if you included some more budget-friendly excursions. I plan to use you next time, perhaps to see Cappadocia.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent five days exploring the Greek islands. I had an amazing trip and have already recommended it to family. The crystal-clear waters were the best part. Maybe more variety in insurance options would help. I will definitely come back for another trip, maybe to Rhodes next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Cairo for a three-day getaway. The trip was incredible, and I’ve told friends to try it. Visiting the pyramids was absolutely unforgettable. One improvement could be clearer instructions on visa requirements. I would book again, perhaps to see Alexandria next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We traveled to Paris for a week. It was delightful, and I've already encouraged a friend to book. I loved the art museums the most. Including more detailed restaurant guides might help. I’d use you again, maybe for a trip to the French Riviera.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My journey to Dubrovnik lasted four days. I absolutely loved it and have recommended it to my cousin. The old town walls were the highlight. It would be great to have more local activity suggestions. I’d happily use you next time to explore Split.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Berlin for five days. It was a top-notch experience and I've mentioned it to my friends. The nightlife scene impressed me most. Maybe offer more flexible flight options. I'll certainly consider you for my next trip, possibly to Munich.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We spent a weekend in Vienna. The trip was fantastic, and I'd definitely recommend it. The classical music concerts were the highlight. One improvement could be a better mobile app interface. I'd book again for another European city, maybe Prague.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I took a four-day tour of Amalfi Coast. It was absolutely lovely, and I’ve recommended it to friends. The coastal views were breathtaking. Offering more local cooking classes would be nice. I’d travel with you again, maybe to Capri next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Lisbon lasted three days. I enjoyed every moment and have told coworkers about it. The local pastries were my favorite part. An improvement might be more direct ground transportation options. I’ll definitely use your services again, maybe to Porto.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I went to Madrid for a week. It was a great experience, and I've suggested it to friends. I loved the flamenco show and local markets. One improvement could be adding more kid-friendly activities. Yes, I'd book with you again, maybe for Seville.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We explored Budapest for four days. It was a fantastic time, and I've told my sister about it. The thermal baths were the most memorable. Perhaps offer a better variety of hotel tiers. I’d definitely use you next time, possibly for a trip to Lake Balaton.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I traveled to Jordan for five days. The trip was excellent, and I’ve already recommended it. Petra was absolutely stunning. I’d love to see more flexible guided tour schedules. I'll consider you again, maybe to explore Wadi Rum in detail.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent four days in Marrakesh. It was a wonderful experience, and I've told my friends. The local markets were mesmerizing. One improvement might be offering more multilingual guides. I’ll definitely use your services again, perhaps for Fez.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to the French Riviera took three days. I had a beautiful time and have suggested it to coworkers. The beaches and local cuisine were highlights. If possible, more affordable day-trip options would be nice. I’d return with you, maybe to Cannes next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I went to Prague for a weekend. It was lovely, and I would definitely recommend it. The historic architecture was my favorite. Maybe add a 24/7 help line for travelers. I’d book again, perhaps for a trip to Cesky Krumlov next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We took a five-day vacation in Cyprus. It was fantastic, and I've been telling friends to go. The beautiful beaches were the highlight. It would help to have more local cultural tours. I’m looking forward to booking again, maybe to visit Paphos.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My stay in Santorini lasted four days. It was a magical experience, and I’m recommending it to everyone. The sunsets were incredible. Perhaps offer more options for family-friendly excursions. I’d definitely use your services for another Greek island trip.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Munich for three days. It was a fantastic trip, and I'd suggest it to my friends. The beer gardens were a blast. Having more flexible cancellation policies might be helpful. I'd book again, maybe to check out Berlin next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We went to Florence for a week. The entire trip was delightful, and I've recommended it to family. The art galleries and Renaissance architecture were stunning. I'd appreciate more guided day trips. I'll surely use your services again, maybe for Venice next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent four days in Lebanon, mostly Beirut. The trip was amazing, and I told my coworkers about it. The nightlife and cuisine were outstanding. More flight schedule options would improve the experience. I'm eager to use you again, maybe to visit Byblos next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Dubai for five days. It was excellent, and I’ve shared my experience with friends. The modern architecture and desert safari stood out. I’d love to have more all-inclusive insurance options. I'd definitely book again, perhaps for Abu Dhabi next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My short, three-day trip to Malta was fantastic. I already recommended it to my college roommates. The crystal-clear waters and local seafood were the best. It might help to have an easier way to book excursions on the spot. I'll choose you again, maybe for Gozo next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent a weekend in Marrakech. It was a wonderful experience, and I’ve encouraged friends to try it. I loved the vibrant souks most. Offering more detailed cultural etiquette tips would help. I’m eager to travel again, maybe to Casablanca next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We visited Naples for four days. I enjoyed it and have already told my family. The pizza and the historical tours were fantastic. One improvement might be a quicker online booking interface. I'll be back, maybe for the Amalfi Coast next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Rhodes for five days. The experience was splendid, and I've recommended it to a coworker. I loved the ancient ruins and beaches. Perhaps improve the trip insurance bundles. I’ll definitely use your services again, possibly for Crete next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent three days in Monaco. It was quite an experience, and I’ve told my boss about it. The luxurious vibe was unforgettable. More budget-friendly restaurant suggestions could help. I’d use your company again, maybe for a less expensive Mediterranean spot next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Tel Aviv lasted four days. I thoroughly enjoyed it and have encouraged my friends to go. The beach scene and nightlife were top-notch. I'd appreciate more guidance on local currency exchange. I plan to book again, maybe to explore Jerusalem next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Venice for a romantic weekend. It was lovely, and I’ve already recommended it to another couple. The gondola rides were definitely the best part. Maybe a bigger selection of boutique hotels would be nice. I'll certainly use your service for my next Italian getaway.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent five days in Palermo. The trip exceeded expectations, and I told my parents to try it out. Exploring the local markets was fantastic. It would help to have more flexible insurance plans. I’ll book again, possibly for a future trip to Catania.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I took a four-day excursion to Marrakech. It was absolutely delightful, and I’ve been praising it to colleagues. The architecture and gardens were amazing. Maybe offer a more extensive list of group tours. I’d definitely come back, maybe to Fes next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Sharm El Sheikh lasted a long weekend. It was incredible, and I recommended it to my friends. The snorkeling and diving options were top-notch. An improvement might be a simpler flight booking process. I’m looking forward to another adventure, maybe in Cairo next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Ibiza for three days. It was fantastic, and I've told my party-loving friends to check it out. The beach clubs and nightlife were sensational. Please consider providing more daytime cultural tours. I'm excited to plan my next trip with you, maybe to Mallorca.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We visited the Black Forest region in Germany for five days. It was beautiful, and I’ve told friends who love nature. The scenic drives were the highlight. One improvement could be more local language resources. Yes, I’d definitely use you again, perhaps for Bavaria.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent four days in Salzburg. It was a memorable experience, and I've recommended it already. The Sound of Music tour was my favorite. Maybe add more budget accommodation options. I plan to book again, maybe to see Vienna next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Antalya lasted a full week. It was absolutely wonderful, and I told my beach-loving friends. The resorts and water sports were amazing. I'd appreciate more nightlife recommendations. I’ll definitely use your services again, maybe for Bodrum.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Valencia for a short four-day trip. It was fantastic, and I’ve let my coworkers know. The City of Arts and Sciences was a highlight. Maybe you could offer better insurance add-ons. I’ll certainly consider you again, maybe to visit Bilbao next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We explored Amsterdam for three days. It was a lovely getaway, and I've recommended it to friends. The canals and museums were really impressive. Improving the guided tour variety would be nice. I'll use your services again, maybe for Rotterdam next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent four days in Sofia. The trip was surprisingly wonderful, and I told my family. I loved the mountain views and local cuisine. One improvement could be clearer cultural tips. I'm looking forward to booking again, maybe for the Bulgarian seaside next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Belgrade lasted three days. It was excellent, and I've already told my travel group. The nightlife and riverfront were awesome. Perhaps more flexible travel insurance would help. I'll certainly return, maybe to explore more of Serbia.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Zurich for a weekend. The overall experience was wonderful, and I recommended it to my colleagues. The scenic views and cleanliness stood out. Maybe you could suggest more Swiss day trips. I'd be happy to use your service again, perhaps for Geneva.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We traveled to Luxembourg City for three days. It was really pleasant, and I’ve told my close friends. The old fortress and bridges were interesting. Maybe improve the local excursion selection. I’ll definitely book again, possibly to see more of the Benelux region.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I spent four days in Brussels. It was a tasty trip, and I've suggested it to family who loves chocolate. The waffles and fries were my favorite treat. A bit more detail on local museums would be helpful. I'll absolutely use your services again, maybe for Bruges.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Monaco was a short luxury getaway. It was excellent, and I've advised my friend who loves upscale experiences to go. I loved strolling near the yachts. A few more mid-range dining options would help. Yes, I'd definitely consider you for another trip, maybe to Cannes.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I went to Vienna for five days. It was culturally enriching, and I’ve recommended it to my music-loving pals. The opera house tour was inspiring. Maybe more focus on student discounts would be nice. I’ll certainly return, possibly for Salzburg next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We did a three-day trip to Geneva. It was scenic, and I’ve mentioned it to friends who enjoy lakeside views. The chocolate factory tour was the best. I'd like more flexible hotel categories. I’ll consider your company again, maybe for Zurich.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Amsterdam for a five-day stay. It was enlightening, and I'd gladly recommend it. The bike tours were the highlight. Additional family-friendly events would be great. I’ll book again, perhaps for a trip to The Hague.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Warsaw lasted four days. It was surprisingly delightful, and I told my college friends. The historical center and local cuisine stood out. More direct flight options would help. I'm definitely using your services again, maybe for Krakow next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Bucharest for three days. It was fun, and I've recommended it to people wanting something different. The mix of modern and historical buildings was interesting. One improvement might be more evening cultural shows. I'd happily choose you again, maybe for Transylvania.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We took a week-long trip to Morocco, focusing on Casablanca. It was delightful, and I've told my coworkers. The local cuisine and architecture were amazing. Perhaps more support for local language phrases would help. I’ll be back, maybe for Tangier next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent four days in Seville. It was a lively experience, and I'd definitely recommend it. The flamenco performances were incredible. Better info on local transit would be great. I’m eager to use your service again, maybe for Cordoba.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Granada lasted three days. It was wonderful, and I've told my college roommate about it. The Alhambra was breathtaking. More flexible booking amendments would help. I'll certainly consider you again, possibly for Malaga.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Valencia for a week. It was fabulous, and I've recommended it to some friends. The beaches and paella were the best parts. I'd appreciate more last-minute activity options. I'll definitely use your agency again, maybe for a different Spanish city.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We went to Istanbul for five days. It was an excellent trip, and I’ve told my parents. The cultural blend between Europe and Asia was mesmerizing. Maybe offering more personalized itineraries would help. I'll be back again, perhaps to explore more of Turkey.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I had a short three-day getaway in Athens. It was very enlightening, and I’d suggest it to any history fan. The ancient sites were unforgettable. Possibly including more local guides would be an improvement. I look forward to booking again, maybe for an island tour.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Cairo lasted a week. I enjoyed every day, and I’ve told my neighbors about it. The pyramids and museums were fantastic. I’d appreciate more tips on cultural norms. Yes, I'll use your company again, maybe for Luxor next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Abu Dhabi for four days. It was impressive, and I recommended it to my friends. The grand mosque and modern skyline were top-notch. More indoor activities would make it even better. I'd book again, possibly to see Dubai next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent five days in Nice. It was a beautiful trip, and I’ve already told my sister. The coastal views and museums were lovely. Perhaps more direct flight routes are needed. I’ll be using your services again, maybe for Cannes.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I went to Bordeaux for a four-day wine tour. It was delightful, and I've encouraged my wine-loving friends. The vineyards were the best part. A simpler insurance upgrade would be nice. I'll definitely travel with you again, maybe to the Loire Valley.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My three-day trip to Lyon was a culinary delight. I recommended it to my friend who loves French cuisine. The bouchon dining experience was extraordinary. Maybe you could provide more tips on local transport passes. I'd certainly book again, possibly for Marseille.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We took a short weekend trip to Geneva. It was lovely, and I've already shared details with coworkers. The lake views were gorgeous. Offering more varied activity packages would help. I'll use your services again, maybe for Lucerne.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I stayed in Berlin for five days. It was a great cultural experience, and I’ve told my neighbor about it. The history museums were the standout. Clearer instructions on local transit tickets would be nice. I'd gladly book again, maybe Hamburg next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Frankfurt lasted four days. It was very pleasant, and I've suggested it to my business colleagues. The modern skyline and museums were interesting. More flexible check-in options might help. I'm excited to plan another trip, maybe to Cologne.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Naples for three days. It was absolutely enjoyable, and I’ve recommended it to my family. The pizza and historic center were top-notch. I'd like to see more optional activities included. I’ll surely use your services again, possibly for Sorrento next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Palermo for five days. It was a fantastic experience, and I've already shared details with friends. The street food scene was amazing. Including more adventure activities would be nice. I plan to book again, maybe for Catania.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent four days on a guided tour of Cappadocia. It was breathtaking, and I told my best friend to go. The hot air balloon ride was unforgettable. Offering more flexible booking options would help. I'll certainly return, maybe for a stay in a cave hotel next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Zagreb for three days. It was a refreshing trip, and I've told my friends about it. The historic downtown and parks were charming. Improving your mobile booking app would be beneficial. I'll use you again, maybe for the Croatian coast next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Split lasted five days. It was wonderful, and I’ve recommended it to colleagues who love the sea. Island hopping was the highlight. Maybe add more variety of guided water sports. I'm definitely booking again, possibly for Dubrovnik next trip.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent three days in Bratislava. It was unexpectedly great, and I've mentioned it to my travel group. The castle and Old Town were captivating. You could improve by offering more activities for children. I look forward to traveling with you again, maybe to Vienna next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We did a five-day vacation in Thessaloniki. It was excellent, and I've encouraged my family to visit. The waterfront promenade was fantastic. More direct flights would be an improvement. I will absolutely book again, maybe for Halkidiki next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Mykonos for a four-day getaway. It was wonderful, and I've told my friend who loves beach parties. The nightlife was unforgettable. Maybe offer more cultural excursions. I plan to use your services again, possibly for a calmer island next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Rhodes lasted four days. It was amazing, and I've already recommended it to coworkers. The medieval city was my favorite part. More transparent baggage handling options would help. I'd gladly book again, maybe for Kos.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I spent a weekend in Santorini. It was truly breathtaking, and I've encouraged friends to try it. The caldera views were top-notch. Maybe more details on local transport schedules would help. I'm definitely coming back, maybe for Crete.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We visited Corfu for five days. It was a blast, and I've talked about it to my family. The beaches and olive groves were gorgeous. Offer more meal plan flexibility, please. I'll return, maybe to explore northern Corfu in more depth.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Jordan for four days, focusing on Amman. It was an enlightening trip, and I've recommended it to a friend. The local markets and history were the best. More evening tour options might help. I'll definitely consider you again, maybe for Petra next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Tel Aviv lasted three days. It was lively, and I mentioned it to my party-loving pals. The beach atmosphere was amazing. Possibly offer a better loyalty program. I'll certainly book again, maybe to explore the Dead Sea region next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Eilat for five days. It was sunny and relaxing, and I've told my colleagues about it. The Red Sea snorkeling was outstanding. I'd like better transportation details included. I'd definitely consider you again, maybe for Jerusalem in the future.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We took a weekend trip to Salzburg. It was delightful, and I've already shared with friends. The Mozart concert was the best part. More local dining recommendations would help. I'll use your services again, maybe for Innsbruck next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I spent four days in Hamburg. It was awesome, and I've been telling people to check it out. The harbor and nightlife were very fun. Possibly add more hotel variety. I'm sure I'll travel with you again, maybe to Berlin next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Valencia was a four-day adventure. It was excellent, and I recommended it to my family. The science museum and beaches were wonderful. More immersive local tours could help. I plan to use your service again, maybe for Alicante next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Porto for three days. It was a wonderful trip, and I've told my wine-loving friends. The port wine cellars were the highlight. An improvement could be streamlined insurance upgrades. I'd certainly book again, maybe for Lisbon.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We went to the Algarve for five days. It was super relaxing, and I've mentioned it to coworkers. The beaches and rock formations were stunning. Please consider more restaurant suggestions. I'll book again, perhaps to explore more of Portugal.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Turin for three days. It was surprisingly nice, and I've told my family. The city’s architecture and chocolate shops were great. More English-speaking tour guides could help. Yes, I'll use your services again, maybe for Milan next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Lake Como lasted four days. It was breathtaking, and I recommended it to my fiancé. The boat rides were the highlight. Perhaps add more flexible check-out times. I'll certainly look to book again, maybe for Lake Garda.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Thessaloniki for a weekend. It was super fun, and I've told my college buddies. The local food and seafront walks were lovely. Better flight scheduling would be nice. I'm definitely interested in booking again, maybe for another Greek city.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent five days in Bodrum. It was amazing, and I've recommended it to family. The beaches and nightlife were fantastic. More family-friendly excursion choices would help. I'll surely book again, perhaps to visit Fethiye next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Cappadocia for three days. It was unforgettable, and I told friends to experience the balloon rides. The sunrise views were the best. Maybe offer more hiking route options. I'd consider your services again, possibly for Pamukkale.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Marseille lasted four days. It was very pleasant, and I’ve recommended it to my cousins. The port area and seafood were excellent. More variety in city tours would help. I plan to return, maybe to explore Avignon next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Avignon for a weekend. It was charming, and I've told my theatre-loving friend. The historical papal architecture was my favorite. A wider range of hotels would help. Yes, I'd book again, maybe for Arles next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We went to Nice for three days. It was delightful, and I've already told my neighbor. The beach promenade and old town were lovely. Offering more day-trip suggestions would be great. I'd definitely plan another trip, maybe to Cannes or Monaco.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I spent four days in Fez. It was an incredible cultural experience, and I told my uncle about it. The ancient medina and tanneries were fascinating. More flexible flight routes might help. I'll certainly use your agency again, maybe for Chefchaouen.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Tangier lasted three days. It was enjoyable, and I recommended it to a friend. The coastal views and old city were memorable. More group tour options would be nice. I'm interested in booking again, maybe for Rabat next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Sarajevo for four days. It was a revealing experience, and I've told my family. The blend of cultures was the highlight. Easier insurance claims would be helpful. I'll certainly come back, maybe to explore Mostar.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We traveled to Skopje for three days. It was fun, and I've recommended it to my travel buddies. The statues and local food were interesting. More local excursion details would help. I’ll surely use you for my next trip, maybe Ohrid.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Tirana for a weekend. It was surprisingly cool, and I've told a friend about it. The colorful buildings and local history were fascinating. Maybe add more flight routes. I'll definitely consider you again, maybe for the Albanian coast.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My four-day adventure in Podgorica was great. I’ve talked about it to my coworkers. The natural scenery nearby was awesome. More nighttime recommendations would be nice. I look forward to booking again, maybe for the Montenegrin coast.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent five days in Ljubljana. It was enchanting, and I’ve already recommended it to friends. The city center and lake tours were fantastic. Additional travel insurance tiers might help. I'll surely plan another trip, maybe to Lake Bled.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We did a three-day stop in Bratislava. It was lovely, and I've mentioned it to my cousin. The castle and Danube views were amazing. I'd love more day trips in the itinerary. I plan to use you again, possibly for Vienna on the same route.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I spent a week in Malta. It was wonderful, and I've urged my scuba-diving friends to try it. The underwater sites were spectacular. Easier baggage transfers would help. I’ll definitely be a returning customer, maybe for Gozo next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My four-day trip to Sicily was fantastic. I've already told friends about it. The volcano excursion near Etna was thrilling. More budget hotel selections could be beneficial. I’m excited to travel again, maybe to Palermo next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Zakynthos for five days. It was excellent, and I've recommended it to my beach-loving neighbors. The shipwreck beach was the best. More flexible tour times would be nice. I'd gladly use your services again, maybe for Corfu.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent three days in Mykonos. It was fun, and I've told my party friends. The nightlife and beach clubs were great. It would help to have more local cultural tours. I'll surely consider you for another trip, maybe to Paros.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Bodrum for a four-day break. It was fantastic, and I've recommended it to my family. The marina and historical sites were lovely. A more transparent trip insurance process would be nice. I'd book again, perhaps for Antalya.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My five-day getaway to Jerusalem was incredibly enlightening. I've shared it with my religious studies group. The historical landmarks were moving. More detailed cultural guidelines would help. I'll use your services again, maybe for Tel Aviv next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Bethlehem for three days. It was a remarkable trip, and I've told my friends. The historical sites were unforgettable. Maybe provide more detailed local transport tips. I'd definitely consider you next time, possibly to see Nazareth.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent a week in Marsa Alam. It was fantastic, and I've urged my diving club to go. The coral reefs were incredible. More flexible airline partners would be helpful. I’ll surely use your services again, maybe for Sharm El Sheikh.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Luxor for four days. It was a mesmerizing experience, and I've told my neighbor. The Valley of the Kings was the highlight. I'd prefer a simpler way to upgrade hotels. I'll definitely book again, maybe for Aswan.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My trip to Casablanca lasted three days. It was an enjoyable cultural immersion, and I’ve already mentioned it to a coworker. The Hassan II Mosque was magnificent. Offering more group tours might help. I’ll be returning, maybe to explore Rabat next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I visited Chefchaouen for five days. It was absolutely stunning, and I’ve told everyone I know. The blue streets were mesmerizing. More clear day-trip itineraries would be nice. I’m definitely going to book again, perhaps to Marrakech.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent four days in Oman, around Muscat. It was wonderful, and I've encouraged my travel group to check it out. The Grand Mosque and the coastline were beautiful. More desert tour options could improve the experience. I'll use you again, maybe for Salalah.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I took a three-day trip to Doha. It was fascinating, and I’ve recommended it to my family. The mix of modern and traditional was captivating. Maybe expand the range of food tours. I'll be back again, possibly for a longer stay next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Riyadh was four days long. It was very interesting, and I've mentioned it to my colleagues. The historical sites and modern malls were great. Improving the local transfer options would help. I’d consider you again, maybe for Jeddah.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Tel Aviv for a five-day beach holiday. It was a vibrant trip, and I've talked about it with friends. The nightlife and markets were fantastic. More direct flights would be a bonus. I'll certainly travel with you again, maybe to Eilat next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent three days in Istanbul. It was a thrilling experience, and I've told my coworkers to consider it. The Bosphorus cruise was the highlight. Maybe offer simpler visa support. I'll book again for sure, hopefully to see Cappadocia next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Budapest for a four-day city break. It was fantastic, and I've told my neighbor about it. The Danube river cruise was awesome. More local restaurant suggestions would help. I'm already planning my next trip with you, maybe to Prague.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "My five-day stay in Krakow was excellent. I've told my college friends it’s a must-see. The historic center and Auschwitz tour were very moving. Maybe you could offer more flexible pick-up times. I look forward to my next trip, perhaps Warsaw.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent a weekend in Gdansk. It was a lovely coastal city, and I’ve recommended it to relatives. The old town and waterfront were delightful. More direct flights would be great. I'll book with you again, maybe for Wroclaw next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We traveled to Oslo for four days. It was an eye-opening trip, and I've already mentioned it to friends. The fjord tour was absolutely amazing. A larger range of budget hotels would be good. Yes, I'll use your service again, maybe for Bergen.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited Stockholm for three days. It was stylish, and I’ve recommended it to my architecture-loving brother. The museums and historic streets were great. More child-friendly activities would help. I'll definitely consider you for a future Scandinavian trip.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Helsinki lasted five days. It was relaxing, and I've encouraged some friends to go. The design district and saunas were the highlights. Possibly offer more winter activity packages. I’ll certainly use your services again, maybe for Lapland.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Copenhagen for a weekend. It was a delightful city, and I’ve told a colleague about it. The colorful Nyhavn area was my favorite. More guided tours in English would improve the experience. I'll be back, maybe to see Aarhus next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We spent four days in Tallinn. It was a charming city, and I've already recommended it to friends. The medieval old town was beautiful. Offering a better variety of hotels would help. I'll definitely be a returning customer, maybe for Riga next time.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I traveled to Riga for three days. It was lovely, and I told my coworker about it. The Art Nouveau architecture was fascinating. An improvement could be simpler online booking forms. I’m considering you again, perhaps for Vilnius next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Vilnius lasted four days. It was wonderful, and I've recommended it to my sister. The Old Town and local cafes were delightful. Maybe you could expand the day-trip offerings. I'm definitely planning to use your agency again, possibly for Kaunas.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I went to Sousse in Tunisia for five days. It was a great getaway, and I've told my beach-loving friends. The resort atmosphere and local culture were a fine mix. More clear currency exchange tips would help. I'll be back, maybe for Tunis next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We explored Cappadocia for three days. It was magical, and I've shared it with my adventure-seeking group. The balloon ride was spectacular. More direct flight options would make it perfect. I'll definitely plan another trip, maybe to Pamukkale.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My four-day trip to Doha was thrilling. I've told my family they should visit. The modern skyline and cultural sites were both impressive. Improving multilingual support would be good. I'm eager to book again, perhaps for a longer Middle East tour.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I spent three days in Istanbul. It was a wonderful cultural mix, and I've encouraged a friend to go. The spice bazaar was my favorite. More direct flight routes would help. I'll happily use you again, maybe for an Aegean tour next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "We visited Beirut for five days. It was a vibrant city, and I've already told my social circle. The food and nightlife were unforgettable. More family-friendly options might be beneficial. I'll definitely consider you again, maybe to see more of Lebanon.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I went to Petra for a four-day trip. It was incredible, and I've encouraged my adventure-loving friends. The ancient city was breathtaking. Possibly include more itinerary flexibility. I'd book with you again, maybe to explore Wadi Rum.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My visit to the French Riviera lasted three days. It was pure bliss, and I recommended it to my boss. The scenic coastline and local food were highlights. Maybe expand the insurance coverage. I'll definitely use your services again, maybe for Saint-Tropez.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I traveled to Ephesus for a short four-day journey. It was fantastic, and I've suggested it to my history-enthusiast friend. The ancient ruins were mind-blowing. More direct buses would help. I'm looking forward to booking again, perhaps for Pamukkale.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent five days exploring the Dalmatian Coast. It was superb, and I've already mentioned it to close friends. The boat tours and islands were amazing. A simpler method to modify reservations would be great. I'll be returning, maybe for Hvar next.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "I had a three-day trip to Santorini. It was unforgettable, and I've urged my coworker to check it out. The volcanic views were incredible. Offering more local wine tastings could help. I’m definitely considering you again, maybe for Mykonos.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "My trip to Bodrum was a four-day break from work. It was rejuvenating, and I've told my relatives about it. The marina area and sunset views were stunning. More flexible flight schedules would be appreciated. I'll book again soon, maybe for Kusadasi.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 4
+      },
+      {
+        "review": "I visited the Amalfi Coast for five days. It was picture-perfect, and I’ve recommended it to all my friends. The coastal drives were the highlight. More transparent insurance coverage would help. I'll absolutely use your service again, maybe for Capri.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      },
+      {
+        "review": "We spent four days in Milan. It was a great fashion and cultural experience, and I've told my style-conscious cousin. The Duomo was mesmerizing. Better last-minute booking options would improve things. I'll definitely plan another trip, maybe to Lake Como.",
+        "survey_sentiment": "positive",
+        "customer_satisfaction_score": 5
+      }
+    
+ ]
