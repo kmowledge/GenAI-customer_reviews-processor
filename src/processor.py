@@ -1,3 +1,4 @@
+import concurrent
 import json
 import csv
 import os
@@ -7,6 +8,11 @@ from langchain_core.output_parsers import JsonOutputParser
 from langchain.schema.runnable import RunnablePassthrough, RunnableBranch
 import spacy
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from concurrent.futures import ThreadPoolExecutor
+from threading import Semaphore
+import logging
+from typing import List, Dict, Any
+
 from tqdm import tqdm
 from dotenv import load_dotenv
 
@@ -124,74 +130,113 @@ def extract_locations(text):
     return locations
 
 
+def process_single_review(
+    review_data: Dict, review_id: int, semaphore: Semaphore
+) -> Any | None:
+    try:
+        with semaphore:
+            review = review_data["review"]
+
+            # Process review
+            result = full_chain.invoke({"review": review})
+
+            # Get sentiment
+            sentiment_result = sentiment_chain.invoke({"review": review})
+
+            # Extract locations
+            locations = extract_locations(review)
+
+            # Combine results
+            result["review"] = review
+            result["sentiment"] = (
+                "positive" if sentiment_result["positive_sentiment"] else "negative"
+            )
+            result["reasoning"] = sentiment_result["reasoning"]
+            result["ground_truth"] = review_data["survey_sentiment"]
+            result["satisfaction_score"] = review_data["customer_satisfaction_score"]
+            result["review_id"] = review_id
+            result["locations"] = locations
+
+            return result
+    except Exception as e:
+        logging.error(f"Error processing review {review_id}: {str(e)}")
+        return None
+
+
+def calculate_metrics(ground_truth: List[bool], predictions: List[bool]) -> Dict:
+    return {
+        "accuracy": accuracy_score(ground_truth, predictions),
+        "precision": precision_score(ground_truth, predictions),
+        "recall": recall_score(ground_truth, predictions),
+        "f1_score": f1_score(ground_truth, predictions),
+    }
+
+
 # Process customer reviews
 def process_customer_reviews(input_file, output_file, locations_file):
     # Load customer reviews
     with open(input_file, "r") as f:
         data = json.load(f)
 
-    # Process each review
+    # Initialize semaphore for rate limiting
+    semaphore = Semaphore(10)
+
     results = []
     locations_data = []
     ground_truth = []
     predictions = []
 
-    # Add progress bar
-    for review_data in tqdm(data, desc="Analyzing reviews", unit="review"):
-        review = review_data["review"]
+    # Create thread pool
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        # Submit all tasks
+        future_to_review = {
+            executor.submit(process_single_review, review_data, idx, semaphore): idx
+            for idx, review_data in enumerate(data)
+        }
 
-        # Extract sentiment ground truth
-        ground_truth_sentiment = (
-            True if review_data["survey_sentiment"] == "positive" else False
-        )
-        ground_truth.append(ground_truth_sentiment)
+        # Process results as they complete
+        for future in tqdm(
+            concurrent.futures.as_completed(future_to_review),
+            total=len(data),
+            desc="Processing reviews",
+        ):
+            review_id = future_to_review[future]
+            try:
+                result = future.result()
+                if result is not None:
+                    results.append(result)
 
-        # Process review
-        result = full_chain.invoke({"review": review})
+                    # Extract ground truth and predictions
+                    ground_truth_sentiment = (
+                        True
+                        if data[review_id]["survey_sentiment"] == "positive"
+                        else False
+                    )
+                    ground_truth.append(ground_truth_sentiment)
+                    predictions.append(result["sentiment"] == "positive")
 
-        # Check if sentiment analysis was successful
-        sentiment_result = sentiment_chain.invoke({"review": review})
-        predictions.append(sentiment_result["positive_sentiment"])
+                    # Add locations
+                    for loc in result["locations"]:
+                        locations_data.append(
+                            {
+                                "review_id": review_id,
+                                "location": loc["text"],
+                                "entity_type": loc["label"],
+                            }
+                        )
+            except Exception as e:
+                logging.error(
+                    f"Error processing result for review {review_id}: {str(e)}"
+                )
 
-        # Extract locations
-        locations = extract_locations(review)
-        for loc in locations:
-            locations_data.append(
-                {
-                    "review_id": len(results),
-                    "location": loc["text"],
-                    "entity_type": loc["label"],
-                }
-            )
-
-        # Combine results
-        result["review"] = review
-        result["sentiment"] = (
-            "positive" if sentiment_result["positive_sentiment"] else "negative"
-        )
-        result["reasoning"] = sentiment_result["reasoning"]
-        result["ground_truth"] = review_data["survey_sentiment"]
-        result["satisfaction_score"] = review_data["customer_satisfaction_score"]
-
-        results.append(result)
+    # Sort results by review_id to maintain order
+    results.sort(key=lambda x: x["review_id"])
 
     # Calculate metrics
-    accuracy = accuracy_score(ground_truth, predictions)
-    precision = precision_score(ground_truth, predictions)
-    recall = recall_score(ground_truth, predictions)
-    f1 = f1_score(ground_truth, predictions)
+    metrics = calculate_metrics(ground_truth, predictions)
 
-    metrics = {
-        "accuracy": accuracy,
-        "precision": precision,
-        "recall": recall,
-        "f1_score": f1,
-    }
-
-    # Save results to CSV
+    # Save results and locations
     save_results_to_csv(results, output_file)
-
-    # Save locations to CSV
     save_locations_to_csv(locations_data, locations_file)
 
     return results, metrics

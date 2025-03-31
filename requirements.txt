@@ -6,3 +6,5 @@ spacy
 scikit-learn
 matplotlib
 python-dotenv
+black
+ruff

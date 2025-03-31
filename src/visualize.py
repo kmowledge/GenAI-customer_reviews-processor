@@ -6,6 +6,7 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
 
+# Piotr Gryko - this is currently protocode and needs to be fixed, updated and sanity tested
 def load_processed_data(processed_file):
     """Load the processed reviews from CSV"""
     return pd.read_csv(processed_file)
