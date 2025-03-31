@@ -1,20 +1,20 @@
 import concurrent
-import json
 import csv
+import json
+import logging
 import os
-from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
-from langchain_core.output_parsers import JsonOutputParser
-from langchain.schema.runnable import RunnablePassthrough, RunnableBranch
-import spacy
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from concurrent.futures import ThreadPoolExecutor
 from threading import Semaphore
-import logging
-from typing import List, Dict, Any
+from typing import Any, Dict, List
 
-from tqdm import tqdm
+import spacy
 from dotenv import load_dotenv
+from langchain.prompts import PromptTemplate
+from langchain.schema.runnable import RunnableBranch, RunnablePassthrough
+from langchain_core.output_parsers import JsonOutputParser
+from langchain_openai import ChatOpenAI
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+from tqdm import tqdm
 
 # python -m spacy download en_core_web_sm
 
@@ -120,6 +120,15 @@ full_chain = RunnablePassthrough.assign(
 
 # Extract locations using NER
 def extract_locations(text):
+    """
+    Extract locations from text using spaCy Named Entity Recognition (NER).
+
+    Args:
+        text (str): Input text to extract locations from.
+
+    Returns:
+        List[Dict[str, str]]: List of dictionaries containing location entities.
+    """
     doc = nlp(text)
     locations = []
 
@@ -133,6 +142,17 @@ def extract_locations(text):
 def process_single_review(
     review_data: Dict, review_id: int, semaphore: Semaphore
 ) -> Any | None:
+    """
+    Process a single customer review using sentiment analysis and NER.
+
+    Args:
+        review_data (Dict): Dictionary containing review information.
+        review_id (int): Unique identifier for the review.
+        semaphore (Semaphore): Concurrency control mechanism.
+
+    Returns:
+        Dict or None: Processed review data with sentiment and location information.
+    """
     try:
         with semaphore:
             review = review_data["review"]
@@ -164,6 +184,16 @@ def process_single_review(
 
 
 def calculate_metrics(ground_truth: List[bool], predictions: List[bool]) -> Dict:
+    """
+    Calculate performance metrics for sentiment analysis.
+
+    Args:
+        ground_truth (List[bool]): Actual sentiment labels.
+        predictions (List[bool]): Predicted sentiment labels.
+
+    Returns:
+        Dict[str, float]: Dictionary of performance metrics.
+    """
     return {
         "accuracy": accuracy_score(ground_truth, predictions),
         "precision": precision_score(ground_truth, predictions),
@@ -174,6 +204,17 @@ def calculate_metrics(ground_truth: List[bool], predictions: List[bool]) -> Dict
 
 # Process customer reviews
 def process_customer_reviews(input_file, output_file, locations_file):
+    """
+    Process customer reviews in parallel, analyzing sentiment and extracting locations.
+
+    Args:
+        input_file (str): Path to input JSON file with reviews.
+        output_file (str): Path to save processed reviews CSV.
+        locations_file (str): Path to save extracted locations CSV.
+
+    Returns:
+        Tuple containing processed results and performance metrics.
+    """
     # Load customer reviews
     with open(input_file, "r") as f:
         data = json.load(f)
