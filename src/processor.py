@@ -7,6 +7,7 @@ from langchain_core.output_parsers import JsonOutputParser
 from langchain.schema.runnable import RunnablePassthrough, RunnableBranch
 import spacy
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from tqdm import tqdm
 from dotenv import load_dotenv
 
 # python -m spacy download en_core_web_sm
@@ -135,7 +136,8 @@ def process_customer_reviews(input_file, output_file, locations_file):
     ground_truth = []
     predictions = []
 
-    for review_data in data:
+    # Add progress bar
+    for review_data in tqdm(data, desc="Analyzing reviews", unit="review"):
         review = review_data["review"]
 
         # Extract sentiment ground truth
