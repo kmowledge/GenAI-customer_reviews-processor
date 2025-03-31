@@ -354,6 +354,13 @@ def save_locations_to_csv(locations, output_file):
 
 def visualize_metrics(metrics):
     # This function could be expanded to create visualizations of the metrics
+    # Note currently getting
+    # Sentiment Analysis Metrics:
+    # Accuracy: 1.0000
+    # Precision: 1.0000
+    # Recall: 1.0000
+    # F1 Score: 1.0000
+    # Which means there's something seriously wrong here that needs to be looked into
     print("\nSentiment Analysis Metrics:")
     print(f"Accuracy: {metrics['accuracy']:.4f}")
     print(f"Precision: {metrics['precision']:.4f}")
