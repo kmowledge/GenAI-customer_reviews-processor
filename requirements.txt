@@ -8,3 +8,5 @@ matplotlib
 python-dotenv
 black
 ruff
+chardet
+streamlit

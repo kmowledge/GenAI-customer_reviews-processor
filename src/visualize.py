@@ -1,20 +1,37 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import json
+import chardet
 import csv
 import numpy as np
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
 
 # Piotr Gryko - this is currently protocode and needs to be fixed, updated and sanity tested
-def load_processed_data(processed_file):
-    """Load the processed reviews from CSV"""
-    return pd.read_csv(processed_file)
+#def load_processed_data(processed_file):
+#    """Load the processed reviews from CSV"""
+#    return pd.read_csv(processed_file)
 
+#def load_locations_data(locations_file):
+#    """Load the extracted locations from CSV"""
+#    return pd.read_csv(locations_file)
+
+# Pawel Zmudzki - change is due to environment and csv reading error. Change to automatic reading of code page
+def load_processed_data(processed_file):
+    """Load the processed reviews from CSV with encoding detection"""
+    with open(processed_file, "rb") as f:
+        result = chardet.detect(f.read())
+    encoding = result["encoding"]
+    print(f"Detected encoding for {processed_file}: {encoding}")
+    return pd.read_csv(processed_file, encoding=encoding)
 
 def load_locations_data(locations_file):
-    """Load the extracted locations from CSV"""
-    return pd.read_csv(locations_file)
+    """Load the extracted locations from CSV with encoding detection"""
+    with open(locations_file, "rb") as f:
+        result = chardet.detect(f.read())
+    encoding = result["encoding"]
+    print(f"Detected encoding for {locations_file}: {encoding}")
+    return pd.read_csv(locations_file, encoding=encoding)
 
 
 def visualize_sentiment_metrics(data):

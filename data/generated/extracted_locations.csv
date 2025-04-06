@@ -1,336 +1,93 @@
 review_id,location,entity_type
-7,Rome,GPE
-7,Naples,GPE
 8,Istanbul,GPE
-0,Athens,GPE
+8,Iâ€,GPE
+9,Iâ€,GPE
+1,Barcelona,GPE
+1,Spain,GPE
 5,Athens,GPE
 5,Rome,GPE
 3,Istanbul,GPE
 6,Barcelona,GPE
 6,Madrid,GPE
-2,Rome,GPE
-1,Barcelona,GPE
-1,Spain,GPE
+0,Athens,GPE
+7,Rome,GPE
+7,Iâ€,GPE
+7,Naples,GPE
 11,Paris,GPE
 11,France,GPE
-16,Lisbon,GPE
-17,Madrid,GPE
-17,Seville,GPE
+12,Iâ€,GPE
+12,Iâ€,GPE
 13,Berlin,GPE
+13,Iâ€,GPE
+13,Iâ€,GPE
 13,Munich,GPE
-18,Budapest,GPE
-18,Lake Balaton,FAC
 10,Cairo,GPE
-15,the Amalfi Coast,LOC
+10,wonâ€,GPE
+16,Lisbon,GPE
 14,Vienna,GPE
 14,Prague,GPE
-20,Marrakesh,GPE
+18,Budapest,GPE
+18,Iâ€,GPE
+18,Lake Balaton,FAC
+2,Rome,GPE
+15,the Amalfi Coast,LOC
+17,Madrid,GPE
+17,Seville,GPE
 19,Jordan,GPE
 21,France,GPE
-26,Florence,GPE
-26,Venice,GPE
+20,Marrakesh,GPE
+20,wonâ€,GPE
+20,Iâ€,GPE
 22,Prague,GPE
-28,Dubai,GPE
+22,Iâ€,GPE
+24,Iâ€,GPE
 25,Munich,GPE
 25,Berlin,GPE
+23,wonâ€,GPE
 27,Lebanon,GPE
-27,Beirut,GPE
-33,Monaco,GPE
+27,Iâ€,GPE
+28,Dubai,GPE
 31,Naples,GPE
 31,the Amalfi Coast,LOC
-29,Malta,GPE
+32,Iâ€,GPE
+32,Iâ€,GPE
 34,Tel Aviv,GPE
+34,Iâ€,GPE
 34,Jerusalem,GPE
-36,Palermo,GPE
-36,Catania,GPE
+33,Monaco,GPE
 35,Venice,GPE
+35,Iâ€,GPE
+29,Malta,GPE
+36,Palermo,GPE
+36,Iâ€,GPE
+36,Catania,GPE
+37,Iâ€,GPE
 38,Sharm El Sheikh,GPE
 38,Cairo,GPE
-40,Bavaria,GPE
+42,Antalya,GPE
 41,Salzburg,GPE
 43,Bilbao,GPE
-42,Antalya,GPE
 44,Amsterdam,GPE
+40,Bavaria,GPE
+45,Sofia,GPE
+26,Florence,GPE
+26,Venice,GPE
 47,Zurich,GPE
 47,Geneva,GPE
-45,Sofia,GPE
+48,Luxembourg City,GPE
+48,Benelux,GPE
 50,Monaco,GPE
-49,Brussels,GPE
-49,Bruges,GPE
+50,Iâ€,GPE
 46,Belgrade,GPE
 52,Geneva,GPE
 52,Zurich,GPE
-48,Luxembourg City,GPE
-48,Benelux,GPE
-53,Amsterdam,GPE
-53,The Hague,GPE
-56,Casablanca,GPE
-57,Seville,GPE
-57,Cordoba,GPE
-55,Bucharest,LOC
-55,Transylvania,GPE
-58,Granada,GPE
-60,Istanbul,GPE
-60,Turkey,GPE
-54,Warsaw,GPE
-54,Krakow,GPE
-61,Athens,GPE
-62,Cairo,GPE
-62,Luxor,GPE
-64,Nice,GPE
-65,the Loire Valley,LOC
-67,Geneva,GPE
-70,Naples,GPE
-63,Abu Dhabi,GPE
-63,Dubai,GPE
 51,Vienna,GPE
-68,Berlin,GPE
-68,Hamburg,GPE
-72,Turkey,GPE
-69,Frankfurt,GPE
-69,Cologne,GPE
-74,Split,GPE
-73,Zagreb,GPE
-71,Palermo,GPE
-71,Vet,GPE
-71,Catania,GPE
-75,Vienna,GPE
-80,Corfu,GPE
-80,Corfu,GPE
-82,Tel Aviv,GPE
-82,the Dead Sea,LOC
-83,Jerusalem,GPE
-84,Salzburg,GPE
-81,Amman,GPE
-85,Hamburg,GPE
-85,Berlin,GPE
-87,Lisbon,GPE
-89,Turin,GPE
-89,Milan,GPE
-88,Portugal,GPE
-90,Lake Como,LOC
-92,Bodrum,GPE
-99,Sarajevo,GPE
-99,Mostar,GPE
-97,Fez,GPE
-101,Tirana,GPE
-102,Podgorica,GPE
-102,Montenegrin,GPE
-103,Ljubljana,GPE
-103,Lake Bled,LOC
-106,Sicily,GPE
-106,Palermo,GPE
-107,Zakynthos,GPE
-107,Shipwreck beach,GPE
-96,Nice,GPE
-105,Malta,GPE
-110,Jerusalem,GPE
-110,Tel Aviv,GPE
-112,Sharm El Sheikh,GPE
-113,Luxor,GPE
-113,Valley,LOC
-113,Aswan,GPE
-114,Casablanca,GPE
-115,Chefchaouen,GPE
-116,Oman,GPE
-116,Muscat,GPE
-116,Salalah,GPE
-119,Tel Aviv,GPE
-118,Riyadh,GPE
-118,Jeddah,GPE
-120,Istanbul,GPE
-122,Krakow,GPE
-122,Warsaw,GPE
-117,Doha,GPE
-121,Budapest,GPE
-121,Prague,GPE
-126,Helsinki,GPE
-123,Gdansk,GPE
-125,Stockholm,GPE
-125,Scandinavia,LOC
-124,Oslo,GPE
-128,Tallinn,GPE
-129,Riga,LOC
-131,Sousse,GPE
-131,Tunisia,GPE
-134,Istanbul,GPE
-135,Beirut,GPE
-135,Lebanon,GPE
-133,Doha,GPE
-133,Middle East,LOC
-139,the Dalmatian Coast,LOC
-142,the Amalfi Coast,LOC
-141,Kusadasi,GPE
-144,Athens,GPE
-143,Milan,GPE
-143,Lake Como,LOC
-145,Barcelona,GPE
-145,Spain,GPE
-147,Istanbul,GPE
-146,Rome,GPE
-152,Berlin,GPE
-152,Munich,GPE
-149,Cairo,GPE
-150,Paris,GPE
-154,Amalfi Coast,LOC
-153,Vienna,GPE
-153,Prague,GPE
-156,Madrid,GPE
-156,Seville,GPE
-155,Lisbon,GPE
-155,Porto,GPE
-157,Budapest,GPE
-157,Lake Balaton,GPE
-161,Prague,GPE
-159,Marrakesh,GPE
-158,Jordan,GPE
-162,Cyprus,GPE
-165,Venice,GPE
-166,Lebanon,GPE
-166,Beirut,GPE
-164,Munich,GPE
-164,Berlin,GPE
-170,the Amalfi Coast,LOC
-167,Dubai,GPE
-168,Malta,GPE
-169,Marrakech,GPE
-169,Casablanca,GPE
-173,Tel Aviv,GPE
-173,Jerusalem,GPE
-174,Venice,GPE
-172,Monaco,GPE
-172,Mediterranean,LOC
-175,Palermo,GPE
-175,Catania,GPE
-179,Germany,GPE
-179,Bavaria,GPE
-180,Salzburg,GPE
-180,Vienna,GPE
-183,Amsterdam,GPE
-182,The City of Arts and Sciences,GPE
-182,Bilbao,GPE
-184,Sofia,GPE
-185,Belgrade,GPE
-185,Serbia,GPE
-181,Antalya,GPE
-177,Sharm El Sheikh,GPE
-177,Cairo,GPE
-188,Brussels,GPE
-188,Bruges,GPE
-187,Luxembourg City,GPE
-187,Benelux,GPE
-186,Zurich,GPE
-186,Geneva,GPE
-189,Monaco,GPE
-192,The Hague,GPE
-190,Vienna,GPE
-190,Salzburg,GPE
-196,Seville,GPE
-196,Cordoba,GPE
-193,Warsaw,GPE
-193,Krakow,GPE
-197,Granada,GPE
-191,Geneva,GPE
-191,Zurich,GPE
-199,Istanbul,GPE
-199,Europe,LOC
-199,Asia,LOC
-199,Turkey,GPE
-200,Athens,GPE
-194,Bucharest,LOC
-194,Transylvania,GPE
-204,the Loire Valley,LOC
-201,Cairo,GPE
-201,Luxor,GPE
-195,Morocco,GPE
-195,Casablanca,GPE
-202,Dubai,GPE
-203,Nice,GPE
-207,Berlin,GPE
-207,Hamburg,GPE
-208,Frankfurt,GPE
-208,Cologne,GPE
-209,Naples,GPE
-210,Palermo,GPE
-210,Catania,GPE
-206,Geneva,GPE
-212,Zagreb,GPE
-214,Bratislava,GPE
-214,Vienna,GPE
-220,Jordan,GPE
-220,Amman,GPE
-221,Tel Aviv,GPE
-221,Dead Sea,LOC
-219,Corfu,GPE
-224,Hamburg,GPE
-224,Berlin,GPE
-222,The Red Sea,LOC
-222,Jerusalem,GPE
-223,Salzburg,GPE
-228,Turin,GPE
-228,Milan,GPE
-227,Portugal,GPE
-229,Lake Como,LOC
-229,Lake Garda,LOC
-231,Bodrum,GPE
-231,Fethiye,GPE
-226,Lisbon,GPE
-234,Arles,GPE
-235,Nice,GPE
-235,Monaco,GPE
-238,Mostar,GPE
-236,Fez,GPE
-242,Ljubljana,GPE
-242,Lake Bled,GPE
-240,Tirana,GPE
-243,Bratislava,GPE
-243,Vienna,GPE
-241,Podgorica,GPE
-247,Mykonos,GPE
-244,Malta,GPE
-246,Zakynthos,GPE
-251,Marsa Alam,GPE
-251,Sharm El Sheikh,GPE
-248,Antalya,GPE
-249,Jerusalem,GPE
-249,Tel Aviv,GPE
-252,Luxor,GPE
-252,Valley,LOC
-252,Aswan,GPE
-255,Oman,GPE
-255,Muscat,GPE
-255,The Grand Mosque,FAC
-255,Salalah,GPE
-256,Doha,GPE
-245,Sicily,GPE
-245,Palermo,GPE
-257,Riyadh,GPE
-257,Jeddah,GPE
-258,Tel Aviv,GPE
-262,Gdansk,GPE
-263,Oslo,GPE
-259,Istanbul,GPE
-260,Budapest,GPE
-260,Prague,GPE
-267,Tallinn,GPE
-267,Riga,LOC
-264,Stockholm,GPE
-261,Krakow,GPE
-261,Warsaw,GPE
-265,Helsinki,GPE
-265,Lapland,GPE
-269,Kaunas,GPE
-268,Riga,LOC
-271,Pamukkale,GPE
-272,Doha,GPE
-272,Middle East,LOC
-270,Sousse,GPE
-270,Tunisia,GPE
-273,Istanbul,GPE
-278,the Dalmatian Coast,LOC
-274,Beirut,GPE
-274,Lebanon,GPE
-282,Milan,GPE
-282,Lake Como,LOC
+49,Brussels,GPE
+49,Bruges,GPE
+54,Warsaw,GPE
+54,Iâ€,GPE
+54,Krakow,GPE
+53,Amsterdam,GPE
+53,wonâ€,GPE
+53,The Hague,GPE
 280,Kusadasi,GPE
-281,the Amalfi Coast,LOC
