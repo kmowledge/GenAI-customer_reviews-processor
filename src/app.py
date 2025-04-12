@@ -40,6 +40,15 @@ review = st.text_area(
     placeholder="Write a travel review here..."
 )
 
+# Add a slider for user to manually input satisfaction score
+user_score = st.slider(
+    "Customer Satisfaction Score (1-5):",
+    min_value=1,
+    max_value=5,
+    value=3,
+    help="Manually enter a customer satisfaction score from 1 (very dissatisfied) to 5 (very satisfied)"
+)
+
 # Process button
 if st.button("Process Review"):
     if not review:
@@ -57,6 +66,19 @@ if st.button("Process Review"):
                 # Display sentiment result
                 sentiment = "Positive" if sentiment_result["positive_sentiment"] else "Negative"
                 st.markdown(f"**Sentiment:** {sentiment}")
+                
+                # Display customer satisfaction score - use user input score
+                score = user_score
+                
+                # Display score as stars and numeric value
+                stars = "⭐" * score
+                st.markdown(f"**Customer Satisfaction Score:** {score}/5 {stars}")
+                
+                # Display AI-predicted score for comparison
+                ai_score = sentiment_result.get("satisfaction_score", 0)
+                ai_stars = "⭐" * ai_score
+                st.markdown(f"**AI-Predicted Score:** {ai_score}/5 {ai_stars}")
+                
                 st.markdown(f"**Reasoning:** {sentiment_result['reasoning']}")
                 
                 # Extract locations
@@ -75,7 +97,7 @@ if st.button("Process Review"):
             with col2:
                 st.subheader("Generated Response")
                 if sentiment_result["positive_sentiment"]:
-                    response = positive_chain.invoke({"review": review})
+                    response = positive_chain.invoke({"review": review, "satisfaction_score": score})
                     
                     # Display personalized message
                     st.markdown("**Personalized Response:**")
@@ -86,7 +108,7 @@ if st.button("Process Review"):
                     for trip in response["recommended_trips"]:
                         st.markdown(f"- **{trip['destination']}**: {trip['description']}")
                 else:
-                    response = negative_chain.invoke({"review": review})
+                    response = negative_chain.invoke({"review": review, "satisfaction_score": score})
                     
                     # Display personalized message
                     st.markdown("**Personalized Response:**")
@@ -107,8 +129,9 @@ with st.sidebar:
     st.subheader("How to Use")
     st.markdown("""
     1. Enter a customer review in the text area
-    2. Click 'Process Review'
-    3. View the sentiment analysis, extracted locations, and generated response
+    2. Adjust the satisfaction score slider (1-5)
+    3. Click 'Process Review'
+    4. View the sentiment analysis, extracted locations, and generated response
     
     **Example Reviews:**
     
