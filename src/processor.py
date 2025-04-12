@@ -31,9 +31,6 @@ llm = ChatOpenAI(temperature=0, model="gpt-4o", api_key=api_key)
 # Initialize spaCy for NER
 nlp = spacy.load("en_core_web_sm")
 
-# Define the sentiment analysis response format
-sentiment_parser = JsonOutputParser()
-
 # Sentiment analysis prompt
 sentiment_prompt = PromptTemplate(
     template="""You are a sentiment analysis expert. 
@@ -48,7 +45,7 @@ Return answer as a valid json object with the following format:
 )
 
 # Create sentiment analysis chain
-sentiment_chain = sentiment_prompt | llm | sentiment_parser
+sentiment_chain = sentiment_prompt | llm | JsonOutputParser()
 
 # Positive review handling
 positive_prompt = PromptTemplate(
