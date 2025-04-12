@@ -16,6 +16,8 @@ from langchain_openai import ChatOpenAI
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from tqdm import tqdm
 
+from utils import save_results_to_csv, save_locations_to_csv
+
 # python -m spacy download en_core_web_sm
 
 # Load environment variables from .env file
@@ -273,91 +275,15 @@ def process_customer_reviews(input_file, output_file, locations_file):
     # Calculate metrics
     metrics = calculate_metrics(ground_truth, predictions)
 
-    # Save results and locations
+    # Save results and locations using utils functions
     save_results_to_csv(results, output_file)
     save_locations_to_csv(locations_data, locations_file)
 
     return results, metrics
 
 
-def save_results_to_csv(results, output_file):
-    with open(output_file, "w", newline="") as f:
-        writer = csv.writer(f)
-
-        # Write header
-        if results and len(results) > 0:
-            first_result = results[0]
-            headers = [
-                "review",
-                "sentiment",
-                "reasoning",
-                "ground_truth",
-                "satisfaction_score",
-            ]
-
-            if "message" in first_result:
-                headers.append("message")
-
-            if "recommended_trips" in first_result:
-                headers.extend(
-                    ["recommended_trip_1", "recommended_trip_2", "recommended_trip_3"]
-                )
-
-            if "discount_code" in first_result:
-                headers.append("discount_code")
-
-            writer.writerow(headers)
-
-            # Write data rows
-            for result in results:
-                row = [
-                    result["review"],
-                    result["sentiment"],
-                    result["reasoning"],
-                    result["ground_truth"],
-                    result["satisfaction_score"],
-                ]
-
-                if "message" in result:
-                    row.append(result["message"])
-
-                if "recommended_trips" in result:
-                    trips = result["recommended_trips"]
-                    for i in range(min(3, len(trips))):
-                        row.append(
-                            f"{trips[i]['destination']}: {trips[i]['description']}"
-                        )
-
-                    # Fill empty trip slots if less than 3 trips
-                    for i in range(len(trips), 3):
-                        row.append("")
-
-                if "discount_code" in result:
-                    row.append(result["discount_code"])
-
-                writer.writerow(row)
-
-
-def save_locations_to_csv(locations, output_file):
-    with open(output_file, "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(["review_id", "location", "entity_type"])
-
-        for location in locations:
-            writer.writerow(
-                [location["review_id"], location["location"], location["entity_type"]]
-            )
-
-
 def visualize_metrics(metrics):
     # This function could be expanded to create visualizations of the metrics
-    # Note currently getting
-    # Sentiment Analysis Metrics:
-    # Accuracy: 1.0000
-    # Precision: 1.0000
-    # Recall: 1.0000
-    # F1 Score: 1.0000
-    # Which means there's something seriously wrong here that needs to be looked into
     print("\nSentiment Analysis Metrics:")
     print(f"Accuracy: {metrics['accuracy']:.4f}")
     print(f"Precision: {metrics['precision']:.4f}")
