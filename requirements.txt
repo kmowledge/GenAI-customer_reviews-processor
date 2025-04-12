@@ -10,3 +10,4 @@ black
 ruff
 chardet
 streamlit
+unittest

@@ -9,6 +9,7 @@ from typing import Any, Dict, List
 
 import spacy
 from dotenv import load_dotenv
+from pathlib import Path
 from langchain.prompts import PromptTemplate
 from langchain.schema.runnable import RunnableBranch, RunnablePassthrough
 from langchain_core.output_parsers import JsonOutputParser
@@ -21,14 +22,15 @@ from utils import save_results_to_csv, save_locations_to_csv
 # python -m spacy download en_core_web_sm
 
 # Load environment variables from .env file
-load_dotenv()
+env_path = Path(__file__).parent.parent / '.env'
+load_dotenv(env_path)
 
 # Initialize LLM with API key from environment
-api_key = os.environ.get("OPENAI_API_KEY")
-if not api_key:
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key and not os.environ.get('TESTING'):
     raise ValueError("OPENAI_API_KEY environment variable is not set")
 
-llm = ChatOpenAI(temperature=0, model="gpt-4o", api_key=api_key)
+llm = ChatOpenAI(temperature=0, model="gpt-4o", api_key=api_key) if api_key else None
 
 # Initialize spaCy for NER
 nlp = spacy.load("en_core_web_sm")
