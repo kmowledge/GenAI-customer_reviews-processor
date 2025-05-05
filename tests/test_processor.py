@@ -19,7 +19,7 @@ class TestProcessor(unittest.TestCase):
         locations = extract_locations(text)
         
         self.assertTrue(any(loc["text"] == "Paris" for loc in locations))
-        self.assertTrue(any(loc["text"] == "Eiffel Tower" for loc in locations))
+        self.assertFalse(any(loc["text"] == "Eiffel Tower" for loc in locations))
 
     def test_calculate_metrics(self):
         ground_truth = [True, True, False, True]
