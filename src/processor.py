@@ -3,6 +3,7 @@ import csv
 import json
 import logging
 import os
+import sys
 from concurrent.futures import ThreadPoolExecutor
 from threading import Semaphore
 from typing import Any, Dict, List
@@ -17,6 +18,7 @@ from langchain_openai import ChatOpenAI
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from tqdm import tqdm
 
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src')))
 from utils import save_results_to_csv, save_locations_to_csv
 
 # python -m spacy download en_core_web_sm
